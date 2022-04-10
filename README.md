@@ -32,5 +32,23 @@ Monte Carlo sensitivity analysis is conducted to account for the unexpected fluc
 
 ![image](https://user-images.githubusercontent.com/102514184/162616859-2f213487-95cb-4844-a707-a3a6a2b57cee.png)
 
+## Data Limitation
+-	Understanding factors affecting tournament ranking was limited due to the data only covering 2021 and 2020
+-	Since the data is in per capita, and there is no reliable way to estimate population growth due to no relevant data such as mortality rates, we could not accurately estimate population growth and therefore total expenses and revenue (since these were given in per capita form).
+
+## Assumption
+-	Players over age 40 and who have played less than 6 games are not considered valid players due to age and injury-related reasons.
+-	The model used to select the team makes certain assumptions to best accommodate the given data:
+o	Players from each of the four positions (GK, FW, MF, DF) play an identical role in the team, and can be fairly compared against one another
+o	The chosen KPIs are the only factors which indicate a player’s individual ability
+
+## Reference 
+1.	Gavião, L., Gavião, E., Sant’Anna, A., Lima, G. and Garcia, P., 2021. Performance analysis of professional soccer goalkeepers by Composition of Probabilistic Preferences. Revista Brasileira de Ciências do Esporte, 43.
+2.	Gavião, L., Lima, G., Sant’Anna, A. and Maciel, G., 2019. Composition of probabilistic preferences with an empirical approach in multi-criteria problems. Gestão & Produção, 26(2).
+3.	Gavião, L., Gavião, E., Sant’Anna, A., Lima, G. and Garcia, P., 2018. CPP: Composition of Probabilistic Preferences (CPP). R package version 0.1.0, <https://CRAN.R-project.org/package=CPP>.
+4.	Vose Software, 2017. PERT distribution. [online] Available at: <https://www.vosesoftware.com/riskwiki/PERTdistribution.php> [Accessed 25 March 2022].
+
+
+
 
 
