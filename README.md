@@ -33,7 +33,9 @@ We aim to a competitive national football team as requested by the Commissioner 
 </p>
 
 Before assembling a competitive national football team, we must define what constitutes a competitive team. The recommended definition of a ‘competitive’ team for this scenario is as follows:
+
 •	Ranking within the top ten members of the FSA for the season within the next five years, with
+
 •	High probability of achieving an FSA championship within the next 10 years.
 
 For the actual player selection, statistics from the player data that are most relevant to each of the four positions (FW, MF, DF, GK). that this ‘ability to contribute’ into a list of key performance indicators (KPIs) that are most relevant to each playing style/position. Once these KPIs are obtained, the CPP method (Gavião et. al. 2019; Gavião et. al. 2021) is used to rank the players. The team selection is as follows,
